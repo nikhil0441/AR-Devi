@@ -197,7 +197,7 @@ const FaceAR = () => {
         }}
       >
         <p style={{ color: "gold" }}>✨ Sparkles & Tilak Added ✨</p>
-        <p>Position aur Scale tera wala hi rakha hai.</p>
+       
       </div>
     </div>
   );
